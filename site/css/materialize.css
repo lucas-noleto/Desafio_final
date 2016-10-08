@@ -796,7 +796,7 @@
 }
 
 .light-blue.lighten-1 {
-  background-color: #29b6f6 !important;
+  background-color: #c0c0c0 !important; 
 }
 
 .light-blue-text.text-lighten-1 {
@@ -1657,6 +1657,10 @@
 
 .orange-text {
   color: #ff9800 !important;
+}
+
+.black-text{
+  color: #000000 !important;
 }
 
 .orange.lighten-5 {
